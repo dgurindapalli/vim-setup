@@ -1,4 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/etc/apt/apt.conf.d'
-let g:netrw_dirhist_2='/etc/apt/sources.list.d'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/cygdrive/c/Users/kumada3/Code/onestash/helm/examples'
+let g:netrw_dirhist_2='/cygdrive/c/Users/kumada3/Code/onestash/helm'
+let g:netrw_dirhist_3='/cygdrive/c/Users/kumada3'
+let g:netrw_dirhist_4='/cygdrive/c/Users'
+let g:netrw_dirhist_5='/cygdrive/c/Users/kumada3'
+let g:netrw_dirhist_6='/cygdrive/c/Users/kumada3/Code/gitlab/digital-architecture'
+let g:netrw_dirhist_7='/cygdrive/c/Users/kumada3'
+let g:netrw_dirhist_8='/cygdrive/c/Users/kumada3/Code/gitlab/kumada3/gopath/src/aws-go'
